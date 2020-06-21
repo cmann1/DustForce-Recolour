@@ -1,18 +1,34 @@
 # Dustforce Recolour
 
 ## Installation
-**Windows 64bit:**
+**Step 1. Windows 64bit:**
 - Download {INSERT LINK TO LATEST FULL ZIP}, which contains everything needed to run the app.
 - Extract the zip file to any location.
 - Run **Dustforce Recolour.exe**.
 
-**Other/Manual:**
+**Step 1. Other/Manual:**
 - Download the appropriate version of [NW.js](https://nwjs.io/) for your operating system.
 - The current version of NW.js the app uses is **0.46.0**, so that or most newer versions should work.
 - Extract to any location.
 - Download {LINK TO JUST PACKAGE.NW ZIP}.
 - Extract that into the NW.js directory.
 - Run NW.js (**nw.exe** on Windows)
+
+**Step 2. Sprites**
+- Download the [player sprites file](https://github.com/cmann1/dustforce-recolour/raw/master/sprites/Player.7z)
+- Extract and merge the downloaded zip file directly into the app's root directory - all the necessary folders
+will be created and the sprite files placed in the correct location.
+
+## Other Sprites
+- [More sprites](https://github.com/cmann1/dustforce-recolour/tree/master/sprites) can be download at any time.
+- They are added the same way as the player sprites and will be detected by the app the next time it is started.
+- Some sprites may be organised into different groups. If there are more than one groups, the current sprite group will be displayed in the top right of the
+ sprite selector window. Click this to open the group selection screen.
+
+**Sprite Quick Links:**
+- [Players](https://github.com/cmann1/dustforce-recolour/raw/master/sprites/Player.7z)
+- [Bosses](https://github.com/cmann1/dustforce-recolour/raw/master/sprites/Bosses.7z)
+
 
 ## Loading Into Dustforce
 - Click the **Render** button.
