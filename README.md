@@ -2,7 +2,7 @@
 
 ## Installation
 **Step 1. Windows 64bit:**
-- Download {INSERT LINK TO LATEST FULL ZIP}, which contains everything needed to run the app.
+- Download [DustForce Recolour.zip](https://github.com/cmann1/dustforce-recolour/releases/latest/download/Dustforce.Recolour.7z), which contains everything needed to run the app.
 - Extract the zip file to any location.
 - Run **Dustforce Recolour.exe**.
 
@@ -10,7 +10,7 @@
 - Download the appropriate version of [NW.js](https://nwjs.io/) for your operating system.
 - The current version of NW.js the app uses is **0.46.0**, so that or most newer versions should work.
 - Extract to any location.
-- Download {LINK TO JUST PACKAGE.NW ZIP}.
+- Download [package.nw.7z](https://github.com/cmann1/dustforce-recolour/releases/latest/download/package.nw.7z).
 - Extract that into the NW.js directory.
 - Run NW.js (**nw.exe** on Windows)
 
