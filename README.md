@@ -29,6 +29,8 @@ will be created and the sprite files placed in the correct location.
 **Sprite Quick Links:**
 - [Players](https://github.com/cmann1/dustforce-recolour/raw/master/sprites/Player.7z)
 - [Bosses](https://github.com/cmann1/dustforce-recolour/raw/master/sprites/Bosses.7z)
+- Custom
+    - [Avatar](https://github.com/cmann1/dustforce-recolour/raw/master/sprites-custom/Avatar.7z)
 
 
 ## Loading Into Dustforce
