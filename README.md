@@ -1,18 +1,19 @@
 # Dustforce Recolour
 
 ## Installation
-**Step 1. Windows 64bit:**
-- Download [DustForce Recolour.zip](https://github.com/cmann1/dustforce-recolour/releases/latest/download/Dustforce.Recolour.7z), which contains everything needed to run the app.
-- Extract the zip file to any location.
-- Run **Dustforce Recolour.exe**.
-
-**Step 1. Other/Manual:**
+**Step 1. Manual:**
 - Download the appropriate version of [NW.js](https://nwjs.io/) for your operating system.
 - The current version of NW.js the app uses is **0.46.0**, so that or most newer versions should work.
 - Extract to any location.
 - Download [package.nw.7z](https://github.com/cmann1/dustforce-recolour/releases/latest/download/package.nw.7z).
 - Extract that into the NW.js directory.
 - Run NW.js (**nw.exe** on Windows)
+
+**Step 1. Windows 64bit:**
+- **NOTE:** This release file may not always be completely up to date. The manual installation above is recommended.
+- Download [DustForce Recolour.zip](https://github.com/cmann1/dustforce-recolour/releases/download/v1.1.3/Dustforce.Recolour.7z), which contains everything needed to run the app.
+- Extract the zip file to any location.
+- Run **Dustforce Recolour.exe**.
 
 **Step 2. Sprites**
 - Download the [player sprites file](https://github.com/cmann1/dustforce-recolour/raw/master/sprites/Player.7z)
