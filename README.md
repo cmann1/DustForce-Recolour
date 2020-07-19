@@ -7,6 +7,8 @@
 - Extract to any location.
 - Download [package.nw.7z](https://github.com/cmann1/dustforce-recolour/releases/latest/download/package.nw.7z).
 - Extract that into the NW.js directory.
+    - On MacOS, extract to **Contents/Resources** and rename from **package.nw** to **app.nw**.
+    - Alternatively you can run it from the command line: CD into **package.nw** then run `/path/to/nwjs`
 - Run NW.js (**nw.exe** on Windows)
 
 **Step 1. Windows 64bit:**
@@ -18,7 +20,8 @@
 **Step 2. Sprites**
 - Download the [player sprites file](https://github.com/cmann1/dustforce-recolour/raw/master/sprites/Player.7z)
 - Extract and merge the downloaded zip file directly into the app's root directory - all the necessary folders
-will be created and the sprite files placed in the correct location.
+will be created, and the sprite files placed in the correct location.
+- **NOTE:** On MacOS merging won't work if the root directory has been renamed to **app.nw**. Instead, extract the zip file and copy the **data/** directory into **app.nw**
 
 ## Other Sprites
 - [More sprites](https://github.com/cmann1/dustforce-recolour/tree/master/sprites) can be download at any time.
