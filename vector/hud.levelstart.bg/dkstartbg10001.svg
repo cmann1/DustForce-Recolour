@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Rectangle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#outer_1_);fill:#FFC1FF;}
+	.st1{clip-path:url(#outer_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g id="bg">
+	<defs>
+		<polygon id="outer" points="338,48 364,48 364,338 48,338 		"/>
+	</defs>
+	<use xlink:href="#outer"  style="overflow:visible;fill-rule:evenodd;clip-rule:evenodd;fill:#B781D9;"/>
+	<clipPath id="outer_1_">
+		<use xlink:href="#outer"  style="overflow:visible;"/>
+	</clipPath>
+	<rect id="mid" x="48" y="71" class="st0" width="331" height="242"/>
+	<rect id="inner" x="48" y="92" class="st1" width="331" height="196"/>
+</g>
+</svg>
